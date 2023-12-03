@@ -18,7 +18,8 @@ https://towardsdatascience.com/11-dimensionality-reduction-techniques-you-should
 
  
 
-2) write a colab to illustrate how dimensionality reduction technique like umap can be used followed by clustering. (see slide show in clustering) as well as a classification feature extraction technique
+2)
+write a colab to illustrate how dimensionality reduction technique like umap can be used followed by clustering. (see slide show in clustering) as well as a classification feature extraction technique
 
 hint: https://umap-learn.readthedocs.io/en/latest/clustering.htmlLinks to an external site. 
 
